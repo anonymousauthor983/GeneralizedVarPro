@@ -1,0 +1,52 @@
+\documentclass[tikz,border=3pt]{standalone}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{pgfplots}
+\usepgfplotslibrary{groupplots}
+\pgfplotsset{compat=1.18}
+\definecolor{sketchline}{HTML}{176B99}
+\definecolor{sketchorange}{HTML}{D55E00}
+\definecolor{sketchblue0}{HTML}{EDF5FC}
+\definecolor{sketchblue1}{HTML}{D9EAF5}
+\definecolor{sketchblue2}{HTML}{B5D7EC}
+\definecolor{sketchblue3}{HTML}{86BCDC}
+\definecolor{sketchblue4}{HTML}{529AC8}
+\definecolor{sketchblue5}{HTML}{2879B0}
+\definecolor{sketchblue6}{HTML}{08519C}
+\begin{document}
+\begin{tikzpicture}
+\begin{groupplot}[group style={group size=3 by 2,horizontal sep=0.45cm,vertical sep=1.2cm},
+width=5.15cm,height=5.15cm,scale only axis,axis equal image,
+xmin=-1.8,xmax=1.8,ymin=-1.8,ymax=1.8,
+xtick={-1,0,1},ytick={-1,0,1},tick label style={font=\small},
+title style={font=\normalsize},label style={font=\small},
+axis line style={black!60},tick style={black!60},
+axis background/.style={fill=white},clip=true]
+\nextgroupplot[title={Joint PG ($s=6$)},ylabel={$x_2$}]
+\input{joint_paths.tex}
+\input{truth_paths.tex}
+\addplot[only marks,mark=+,mark size=2.2pt,black,line width=.65pt] coordinates {(-1.0,-0.6) (0.2,0.8) (1.1,-0.5) (-1.0,0.9) (0.1,-1.0)};
+\nextgroupplot[title={PALM ($s=6$)},yticklabels={,,}]
+\input{palm_paths.tex}
+\input{truth_paths.tex}
+\addplot[only marks,mark=+,mark size=2.2pt,black,line width=.65pt] coordinates {(-1.0,-0.6) (0.2,0.8) (1.1,-0.5) (-1.0,0.9) (0.1,-1.0)};
+\nextgroupplot[title={VarPro ($s=5$)},yticklabels={,,}]
+\input{varpro_paths.tex}
+\input{truth_paths.tex}
+\addplot[only marks,mark=+,mark size=2.2pt,black,line width=.65pt] coordinates {(-1.0,-0.6) (0.2,0.8) (1.1,-0.5) (-1.0,0.9) (0.1,-1.0)};
+\nextgroupplot[title={Alt-1 ($s=6$)},ylabel={$x_2$},xlabel={$x_1$}]
+\input{prox1_paths.tex}
+\input{truth_paths.tex}
+\addplot[only marks,mark=+,mark size=2.2pt,black,line width=.65pt] coordinates {(-1.0,-0.6) (0.2,0.8) (1.1,-0.5) (-1.0,0.9) (0.1,-1.0)};
+\nextgroupplot[title={Alt-10 ($s=5$)},yticklabels={,,},xlabel={$x_1$}]
+\input{prox10_paths.tex}
+\input{truth_paths.tex}
+\addplot[only marks,mark=+,mark size=2.2pt,black,line width=.65pt] coordinates {(-1.0,-0.6) (0.2,0.8) (1.1,-0.5) (-1.0,0.9) (0.1,-1.0)};
+\nextgroupplot[title={Fixed grid ($s=16$)},yticklabels={,,},xlabel={$x_1$}]
+\input{grid_paths.tex}
+\input{truth_paths.tex}
+\addplot[only marks,mark=+,mark size=2.2pt,black,line width=.65pt] coordinates {(-1.0,-0.6) (0.2,0.8) (1.1,-0.5) (-1.0,0.9) (0.1,-1.0)};
+\end{groupplot}
+\node[anchor=north,font=\small,align=center] at ([yshift=-1.05cm]group c2r2.south) {Blue: fitted density \quad Dashed: population \quad $+$: true means \quad Orange: active means};
+\end{tikzpicture}
+\end{document}

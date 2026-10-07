@@ -1,0 +1,9 @@
+{
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "platform": "Linux-6.18.44-x86_64-with-glibc2.39",
+  "processor": "x86_64",
+  "threads": 1,
+  "timing": "perf_counter; optimization kernels incl. initialization, inner solves, Gram/eigensolves and line searches; excludes diagnostics and sketch construction"
+}

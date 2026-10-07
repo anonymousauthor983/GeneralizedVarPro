@@ -1,0 +1,1352 @@
+[
+  {
+    "config": 0,
+    "seed": 0,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0004584629971180476,
+    "objective": 0.003944642795696176,
+    "max_kkt": 2.862293735361732e-17
+  },
+  {
+    "config": 0,
+    "seed": 0,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0004634328432080448,
+    "objective": 0.003944706323179146,
+    "max_kkt": 2.862293735361732e-17
+  },
+  {
+    "config": 0,
+    "seed": 0,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.00045807580340517795,
+    "objective": 0.003944638307814975,
+    "max_kkt": 1.5265566588595902e-16
+  },
+  {
+    "config": 0,
+    "seed": 1,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0004860747738280047,
+    "objective": 0.003971424848547113,
+    "max_kkt": 3.729655473350135e-17
+  },
+  {
+    "config": 0,
+    "seed": 1,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.0005088983211507525,
+    "objective": 0.003972323007405871,
+    "max_kkt": 3.729655473350135e-17
+  },
+  {
+    "config": 0,
+    "seed": 1,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0004870760448167921,
+    "objective": 0.003968558065414419,
+    "max_kkt": 2.1423834928313568e-16
+  },
+  {
+    "config": 0,
+    "seed": 2,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.00038612141036242775,
+    "objective": 0.003953216690015004,
+    "max_kkt": 4.163336342344337e-17
+  },
+  {
+    "config": 0,
+    "seed": 2,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0003277815987743349,
+    "objective": 0.003953413711381316,
+    "max_kkt": 4.163336342344337e-17
+  },
+  {
+    "config": 0,
+    "seed": 2,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.00027232924178011153,
+    "objective": 0.003950503354716712,
+    "max_kkt": 1.4051260155412137e-16
+  },
+  {
+    "config": 0,
+    "seed": 3,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0006036659513657394,
+    "objective": 0.003954675283285664,
+    "max_kkt": 3.9898639947466563e-17
+  },
+  {
+    "config": 0,
+    "seed": 3,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0006244658409233494,
+    "objective": 0.0039554832825240355,
+    "max_kkt": 3.9898639947466563e-17
+  },
+  {
+    "config": 0,
+    "seed": 3,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0006014438654560195,
+    "objective": 0.003954658278035547,
+    "max_kkt": 1.474514954580286e-16
+  },
+  {
+    "config": 0,
+    "seed": 4,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0005639584274215181,
+    "objective": 0.003968087591810878,
+    "max_kkt": 3.382710778154774e-17
+  },
+  {
+    "config": 0,
+    "seed": 4,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0006025517994940888,
+    "objective": 0.003968690120691012,
+    "max_kkt": 3.382710778154774e-17
+  },
+  {
+    "config": 0,
+    "seed": 4,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0005595884272886487,
+    "objective": 0.003968001516527912,
+    "max_kkt": 2.0729945537922845e-16
+  },
+  {
+    "config": 1,
+    "seed": 0,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0006511813709488834,
+    "objective": 0.007747611982907637,
+    "max_kkt": 3.2959746043559335e-17
+  },
+  {
+    "config": 1,
+    "seed": 0,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0006631046064879964,
+    "objective": 0.007747766270668435,
+    "max_kkt": 3.2959746043559335e-17
+  },
+  {
+    "config": 1,
+    "seed": 0,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0006500270865030799,
+    "objective": 0.007747598656253773,
+    "max_kkt": 1.474514954580286e-16
+  },
+  {
+    "config": 1,
+    "seed": 1,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0006567720894703477,
+    "objective": 0.00783427002110621,
+    "max_kkt": 2.2551405187698492e-17
+  },
+  {
+    "config": 1,
+    "seed": 1,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.000687113993809163,
+    "objective": 0.007835420790610927,
+    "max_kkt": 2.2551405187698492e-17
+  },
+  {
+    "config": 1,
+    "seed": 1,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0007171239139684982,
+    "objective": 0.007832205828426878,
+    "max_kkt": 1.700029006457271e-16
+  },
+  {
+    "config": 1,
+    "seed": 2,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0007690116423855198,
+    "objective": 0.007760829676463456,
+    "max_kkt": 2.0816681711721685e-17
+  },
+  {
+    "config": 1,
+    "seed": 2,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0011945368872605666,
+    "objective": 0.007775692745025831,
+    "max_kkt": 2.0816681711721685e-17
+  },
+  {
+    "config": 1,
+    "seed": 2,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.000704259715943012,
+    "objective": 0.007760364156256068,
+    "max_kkt": 1.474514954580286e-16
+  },
+  {
+    "config": 1,
+    "seed": 3,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0013752632929822095,
+    "objective": 0.007775742358479309,
+    "max_kkt": 3.8163916471489756e-17
+  },
+  {
+    "config": 1,
+    "seed": 3,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0014045165106681967,
+    "objective": 0.007777724102896207,
+    "max_kkt": 3.8163916471489756e-17
+  },
+  {
+    "config": 1,
+    "seed": 3,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.001372660387451985,
+    "objective": 0.007775702137159041,
+    "max_kkt": 1.8908485888147197e-16
+  },
+  {
+    "config": 1,
+    "seed": 4,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0008690948904639395,
+    "objective": 0.007836930898895469,
+    "max_kkt": 2.7755575615628914e-17
+  },
+  {
+    "config": 1,
+    "seed": 4,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0009542699202667038,
+    "objective": 0.007838700644698353,
+    "max_kkt": 2.7755575615628914e-17
+  },
+  {
+    "config": 1,
+    "seed": 4,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0008571788695910243,
+    "objective": 0.00783661842679137,
+    "max_kkt": 2.0296264668928643e-16
+  },
+  {
+    "config": 2,
+    "seed": 0,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.00108456407628843,
+    "objective": 0.011421029474957513,
+    "max_kkt": 2.949029909160572e-17
+  },
+  {
+    "config": 2,
+    "seed": 0,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0011091033541044126,
+    "objective": 0.011421503959227973,
+    "max_kkt": 2.949029909160572e-17
+  },
+  {
+    "config": 2,
+    "seed": 0,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0010819686419141217,
+    "objective": 0.011420979699634418,
+    "max_kkt": 1.3704315460216776e-16
+  },
+  {
+    "config": 2,
+    "seed": 1,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0010000332043216265,
+    "objective": 0.011606970080039736,
+    "max_kkt": 2.0816681711721685e-17
+  },
+  {
+    "config": 2,
+    "seed": 1,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.0010625623291187214,
+    "objective": 0.011608613172981551,
+    "max_kkt": 2.0816681711721685e-17
+  },
+  {
+    "config": 2,
+    "seed": 1,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0010591722300057338,
+    "objective": 0.011603004030086095,
+    "max_kkt": 1.8388068845354155e-16
+  },
+  {
+    "config": 2,
+    "seed": 2,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0051235440878178995,
+    "objective": 0.011534946478477059,
+    "max_kkt": 2.2551405187698492e-17
+  },
+  {
+    "config": 2,
+    "seed": 2,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.016789190441396595,
+    "objective": 0.011857388208179189,
+    "max_kkt": 2.2551405187698492e-17
+  },
+  {
+    "config": 2,
+    "seed": 2,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.004792502367709117,
+    "objective": 0.011527307709942747,
+    "max_kkt": 1.3704315460216776e-16
+  },
+  {
+    "config": 2,
+    "seed": 3,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0025419833347317677,
+    "objective": 0.01147770689107473,
+    "max_kkt": 3.9898639947466563e-17
+  },
+  {
+    "config": 2,
+    "seed": 3,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.002696341934248059,
+    "objective": 0.011484922552430325,
+    "max_kkt": 3.9898639947466563e-17
+  },
+  {
+    "config": 2,
+    "seed": 3,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0025371076554905336,
+    "objective": 0.011477565023638725,
+    "max_kkt": 1.5439038936193583e-16
+  },
+  {
+    "config": 2,
+    "seed": 4,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0013880628268905237,
+    "objective": 0.011621091863563306,
+    "max_kkt": 2.42861286636753e-17
+  },
+  {
+    "config": 2,
+    "seed": 4,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0016923472266718864,
+    "objective": 0.011628270854495299,
+    "max_kkt": 2.42861286636753e-17
+  },
+  {
+    "config": 2,
+    "seed": 4,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0013262770535407142,
+    "objective": 0.0116193665158755,
+    "max_kkt": 2.723515857283587e-16
+  },
+  {
+    "config": 3,
+    "seed": 0,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.00045121083834076536,
+    "objective": 0.0039446246918652264,
+    "max_kkt": 4.683753385137379e-17
+  },
+  {
+    "config": 3,
+    "seed": 0,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.00044797299523224865,
+    "objective": 0.0039446375979217945,
+    "max_kkt": 4.683753385137379e-17
+  },
+  {
+    "config": 3,
+    "seed": 0,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0004517906888259482,
+    "objective": 0.003944623197085095,
+    "max_kkt": 1.43982048506075e-16
+  },
+  {
+    "config": 3,
+    "seed": 1,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0004947635020442487,
+    "objective": 0.003968468462170735,
+    "max_kkt": 5.0306980803327406e-17
+  },
+  {
+    "config": 3,
+    "seed": 1,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0004990226910397411,
+    "objective": 0.003968482796715395,
+    "max_kkt": 5.0306980803327406e-17
+  },
+  {
+    "config": 3,
+    "seed": 1,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0004943268694470593,
+    "objective": 0.003968467314160772,
+    "max_kkt": 2.0816681711721685e-16
+  },
+  {
+    "config": 3,
+    "seed": 2,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.00030985623445367594,
+    "objective": 0.003949791981258132,
+    "max_kkt": 1.6479873021779667e-17
+  },
+  {
+    "config": 3,
+    "seed": 2,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0003114233902787866,
+    "objective": 0.003949793970621259,
+    "max_kkt": 1.6479873021779667e-17
+  },
+  {
+    "config": 3,
+    "seed": 2,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.00030970899468152346,
+    "objective": 0.003949791865672814,
+    "max_kkt": 1.5178830414797062e-16
+  },
+  {
+    "config": 3,
+    "seed": 3,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0006100318933872639,
+    "objective": 0.003954462814959934,
+    "max_kkt": 4.2500725161431774e-17
+  },
+  {
+    "config": 3,
+    "seed": 3,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0006075993361134291,
+    "objective": 0.003954463588473035,
+    "max_kkt": 4.2500725161431774e-17
+  },
+  {
+    "config": 3,
+    "seed": 3,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0006103568096726963,
+    "objective": 0.003954462757850722,
+    "max_kkt": 1.5959455978986625e-16
+  },
+  {
+    "config": 3,
+    "seed": 4,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.000545264224261377,
+    "objective": 0.003967893594671841,
+    "max_kkt": 4.597017211338539e-17
+  },
+  {
+    "config": 3,
+    "seed": 4,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0005442088892786412,
+    "objective": 0.003967894348804655,
+    "max_kkt": 4.597017211338539e-17
+  },
+  {
+    "config": 3,
+    "seed": 4,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0005451487421230805,
+    "objective": 0.003967893651673921,
+    "max_kkt": 1.8908485888147197e-16
+  },
+  {
+    "config": 4,
+    "seed": 0,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0006359470636916331,
+    "objective": 0.0077475550613818975,
+    "max_kkt": 7.112366251504909e-17
+  },
+  {
+    "config": 4,
+    "seed": 0,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0006313587105570839,
+    "objective": 0.007747561520563354,
+    "max_kkt": 7.112366251504909e-17
+  },
+  {
+    "config": 4,
+    "seed": 0,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0006364264120060081,
+    "objective": 0.007747554602259921,
+    "max_kkt": 1.2836953722228372e-16
+  },
+  {
+    "config": 4,
+    "seed": 1,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0007161114441074368,
+    "objective": 0.00783205332535739,
+    "max_kkt": 3.2959746043559335e-17
+  },
+  {
+    "config": 4,
+    "seed": 1,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0007196673878460125,
+    "objective": 0.007832064914068817,
+    "max_kkt": 3.2959746043559335e-17
+  },
+  {
+    "config": 4,
+    "seed": 1,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0007158791766033179,
+    "objective": 0.007832052702644083,
+    "max_kkt": 1.8908485888147197e-16
+  },
+  {
+    "config": 4,
+    "seed": 2,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0006401604562120689,
+    "objective": 0.007755577502963387,
+    "max_kkt": 6.418476861114186e-17
+  },
+  {
+    "config": 4,
+    "seed": 2,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0006413711207524653,
+    "objective": 0.007755580401013852,
+    "max_kkt": 6.418476861114186e-17
+  },
+  {
+    "config": 4,
+    "seed": 2,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0006400557104666582,
+    "objective": 0.007755577368408709,
+    "max_kkt": 1.5439038936193583e-16
+  },
+  {
+    "config": 4,
+    "seed": 3,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0014115884862597738,
+    "objective": 0.007775165101947972,
+    "max_kkt": 5.204170427930421e-17
+  },
+  {
+    "config": 4,
+    "seed": 3,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0014070711319738027,
+    "objective": 0.0077751662015062,
+    "max_kkt": 5.204170427930421e-17
+  },
+  {
+    "config": 4,
+    "seed": 3,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0014121047757418292,
+    "objective": 0.007775165032765087,
+    "max_kkt": 1.5439038936193583e-16
+  },
+  {
+    "config": 4,
+    "seed": 4,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0008381632601139888,
+    "objective": 0.007836296951858515,
+    "max_kkt": 7.45931094670027e-17
+  },
+  {
+    "config": 4,
+    "seed": 4,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0008367482549591632,
+    "objective": 0.007836297734495803,
+    "max_kkt": 7.45931094670027e-17
+  },
+  {
+    "config": 4,
+    "seed": 4,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0008380233126765724,
+    "objective": 0.007836297007297748,
+    "max_kkt": 2.203098814490545e-16
+  },
+  {
+    "config": 5,
+    "seed": 0,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0010562349597138532,
+    "objective": 0.011420849728747875,
+    "max_kkt": 4.85722573273506e-17
+  },
+  {
+    "config": 5,
+    "seed": 0,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0010496407388334017,
+    "objective": 0.011420856048622252,
+    "max_kkt": 4.85722573273506e-17
+  },
+  {
+    "config": 5,
+    "seed": 0,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0010567680241033717,
+    "objective": 0.011420849384763062,
+    "max_kkt": 1.700029006457271e-16
+  },
+  {
+    "config": 5,
+    "seed": 1,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0010431411967366522,
+    "objective": 0.011602714227226016,
+    "max_kkt": 6.938893903907228e-17
+  },
+  {
+    "config": 5,
+    "seed": 1,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.00104663022560203,
+    "objective": 0.011602727555988287,
+    "max_kkt": 6.938893903907228e-17
+  },
+  {
+    "config": 5,
+    "seed": 1,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0010429713937525342,
+    "objective": 0.011602713676529493,
+    "max_kkt": 1.8214596497756474e-16
+  },
+  {
+    "config": 5,
+    "seed": 2,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0012369677090204867,
+    "objective": 0.011429280799553465,
+    "max_kkt": 7.112366251504909e-17
+  },
+  {
+    "config": 5,
+    "seed": 2,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.001237867916405122,
+    "objective": 0.011429286270169028,
+    "max_kkt": 7.112366251504909e-17
+  },
+  {
+    "config": 5,
+    "seed": 2,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.001236865092910655,
+    "objective": 0.011429280576360279,
+    "max_kkt": 1.4224732503009818e-16
+  },
+  {
+    "config": 5,
+    "seed": 3,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.002625071872838669,
+    "objective": 0.011475401011723372,
+    "max_kkt": 6.938893903907228e-17
+  },
+  {
+    "config": 5,
+    "seed": 3,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0026170637508966532,
+    "objective": 0.011475403012568584,
+    "max_kkt": 6.938893903907228e-17
+  },
+  {
+    "config": 5,
+    "seed": 3,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0026258834840993117,
+    "objective": 0.011475400896740645,
+    "max_kkt": 1.4224732503009818e-16
+  },
+  {
+    "config": 5,
+    "seed": 4,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0012850423644730213,
+    "objective": 0.011618079502922488,
+    "max_kkt": 5.551115123125783e-17
+  },
+  {
+    "config": 5,
+    "seed": 4,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0012829167993613222,
+    "objective": 0.011618080562554641,
+    "max_kkt": 5.551115123125783e-17
+  },
+  {
+    "config": 5,
+    "seed": 4,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0012848506173290808,
+    "objective": 0.011618079573245413,
+    "max_kkt": 2.1510571102112408e-16
+  },
+  {
+    "config": 6,
+    "seed": 0,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0010131952948724265,
+    "objective": 0.007767352782322521,
+    "max_kkt": 3.2959746043559335e-17
+  },
+  {
+    "config": 6,
+    "seed": 0,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.0014738543847161445,
+    "objective": 0.007780011772027183,
+    "max_kkt": 3.2959746043559335e-17
+  },
+  {
+    "config": 6,
+    "seed": 0,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0009730987334077845,
+    "objective": 0.007763128518439791,
+    "max_kkt": 2.411265631607762e-16
+  },
+  {
+    "config": 6,
+    "seed": 1,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.003469806190012248,
+    "objective": 0.007891042844463056,
+    "max_kkt": 7.632783294297951e-17
+  },
+  {
+    "config": 6,
+    "seed": 1,
+    "method": "palm",
+    "active": 8,
+    "ise": 0.007618591916769946,
+    "objective": 0.007963420054222337,
+    "max_kkt": 7.632783294297951e-17
+  },
+  {
+    "config": 6,
+    "seed": 1,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.002958905404125467,
+    "objective": 0.007877903523848432,
+    "max_kkt": 2.463307335887066e-16
+  },
+  {
+    "config": 6,
+    "seed": 2,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0014993504462541551,
+    "objective": 0.007783913802248513,
+    "max_kkt": 1.734723475976807e-17
+  },
+  {
+    "config": 6,
+    "seed": 2,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0036262985500168377,
+    "objective": 0.007826612286555524,
+    "max_kkt": 1.734723475976807e-17
+  },
+  {
+    "config": 6,
+    "seed": 2,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0014139503218879579,
+    "objective": 0.007772101645240806,
+    "max_kkt": 2.5326962749261384e-16
+  },
+  {
+    "config": 6,
+    "seed": 3,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0016496540550696714,
+    "objective": 0.0078040794828393885,
+    "max_kkt": 2.6020852139652106e-17
+  },
+  {
+    "config": 6,
+    "seed": 3,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.0029362777204575696,
+    "objective": 0.00783591469054655,
+    "max_kkt": 2.6020852139652106e-17
+  },
+  {
+    "config": 6,
+    "seed": 3,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0015769586552341064,
+    "objective": 0.007801052500538306,
+    "max_kkt": 2.220446049250313e-16
+  },
+  {
+    "config": 6,
+    "seed": 4,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0014381265789653597,
+    "objective": 0.007837045126474871,
+    "max_kkt": 8.153200337090993e-17
+  },
+  {
+    "config": 6,
+    "seed": 4,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.0020549529764564145,
+    "objective": 0.007854850359739046,
+    "max_kkt": 8.153200337090993e-17
+  },
+  {
+    "config": 6,
+    "seed": 4,
+    "method": "varpro",
+    "active": 6,
+    "ise": 0.0022518169500465035,
+    "objective": 0.007852906302322797,
+    "max_kkt": 2.6194324487249787e-16
+  },
+  {
+    "config": 7,
+    "seed": 0,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.00085040167207584,
+    "objective": 0.007762651154401866,
+    "max_kkt": 8.673617379884035e-17
+  },
+  {
+    "config": 7,
+    "seed": 0,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.000852784594529199,
+    "objective": 0.007765098187964746,
+    "max_kkt": 8.673617379884035e-17
+  },
+  {
+    "config": 7,
+    "seed": 0,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0009059847114973874,
+    "objective": 0.007759486487653674,
+    "max_kkt": 1.8735013540549517e-16
+  },
+  {
+    "config": 7,
+    "seed": 1,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0006454051163797825,
+    "objective": 0.007840447400531027,
+    "max_kkt": 6.938893903907228e-17
+  },
+  {
+    "config": 7,
+    "seed": 1,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.000633709021510942,
+    "objective": 0.007841533144038492,
+    "max_kkt": 6.938893903907228e-17
+  },
+  {
+    "config": 7,
+    "seed": 1,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0007371171329124682,
+    "objective": 0.007840460107401968,
+    "max_kkt": 2.740863092043355e-16
+  },
+  {
+    "config": 7,
+    "seed": 2,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0009403658848170515,
+    "objective": 0.007758042382231713,
+    "max_kkt": 7.28583859910259e-17
+  },
+  {
+    "config": 7,
+    "seed": 2,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.0009136283465258632,
+    "objective": 0.007759480322899713,
+    "max_kkt": 7.28583859910259e-17
+  },
+  {
+    "config": 7,
+    "seed": 2,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0010557253727885296,
+    "objective": 0.007757321454186689,
+    "max_kkt": 1.9255430583342559e-16
+  },
+  {
+    "config": 7,
+    "seed": 3,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0012922378025124193,
+    "objective": 0.007789092393037611,
+    "max_kkt": 1.4051260155412137e-16
+  },
+  {
+    "config": 7,
+    "seed": 3,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.0012748587107471732,
+    "objective": 0.007789891836527489,
+    "max_kkt": 1.4051260155412137e-16
+  },
+  {
+    "config": 7,
+    "seed": 3,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0013718796221737772,
+    "objective": 0.007790357710825476,
+    "max_kkt": 2.3245294578089215e-16
+  },
+  {
+    "config": 7,
+    "seed": 4,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0012909343275493423,
+    "objective": 0.007832333580972234,
+    "max_kkt": 7.45931094670027e-17
+  },
+  {
+    "config": 7,
+    "seed": 4,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.001281497627996897,
+    "objective": 0.007833813565841913,
+    "max_kkt": 7.45931094670027e-17
+  },
+  {
+    "config": 7,
+    "seed": 4,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0014684307210008907,
+    "objective": 0.007829819696139636,
+    "max_kkt": 2.740863092043355e-16
+  },
+  {
+    "config": 8,
+    "seed": 0,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.0033490137809777387,
+    "objective": 0.007801518917708193,
+    "max_kkt": 1.734723475976807e-17
+  },
+  {
+    "config": 8,
+    "seed": 0,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.010430073130675677,
+    "objective": 0.007997163549824292,
+    "max_kkt": 1.734723475976807e-17
+  },
+  {
+    "config": 8,
+    "seed": 0,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0024673346312515942,
+    "objective": 0.007781647123812395,
+    "max_kkt": 2.0816681711721685e-16
+  },
+  {
+    "config": 8,
+    "seed": 1,
+    "method": "joint",
+    "active": 7,
+    "ise": 0.007197001571842332,
+    "objective": 0.007938539445862917,
+    "max_kkt": 3.8163916471489756e-17
+  },
+  {
+    "config": 8,
+    "seed": 1,
+    "method": "palm",
+    "active": 7,
+    "ise": 0.014115401093478974,
+    "objective": 0.008056908191752097,
+    "max_kkt": 3.8163916471489756e-17
+  },
+  {
+    "config": 8,
+    "seed": 1,
+    "method": "varpro",
+    "active": 6,
+    "ise": 0.003649083401411568,
+    "objective": 0.007893154330641878,
+    "max_kkt": 2.896988204881268e-16
+  },
+  {
+    "config": 8,
+    "seed": 2,
+    "method": "joint",
+    "active": 7,
+    "ise": 0.045268170860355283,
+    "objective": 0.009458463512240023,
+    "max_kkt": 2.949029909160572e-17
+  },
+  {
+    "config": 8,
+    "seed": 2,
+    "method": "palm",
+    "active": 7,
+    "ise": 0.050786397520026894,
+    "objective": 0.009897305400121778,
+    "max_kkt": 2.949029909160572e-17
+  },
+  {
+    "config": 8,
+    "seed": 2,
+    "method": "varpro",
+    "active": 6,
+    "ise": 0.047715819147772454,
+    "objective": 0.009573590271213567,
+    "max_kkt": 2.1510571102112408e-16
+  },
+  {
+    "config": 8,
+    "seed": 3,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.005181864146048376,
+    "objective": 0.00785410295103141,
+    "max_kkt": 7.979727989493313e-17
+  },
+  {
+    "config": 8,
+    "seed": 3,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.010115411909037197,
+    "objective": 0.007989179137705846,
+    "max_kkt": 7.979727989493313e-17
+  },
+  {
+    "config": 8,
+    "seed": 3,
+    "method": "varpro",
+    "active": 6,
+    "ise": 0.0052569757908265125,
+    "objective": 0.007857443243704394,
+    "max_kkt": 2.671474153004283e-16
+  },
+  {
+    "config": 8,
+    "seed": 4,
+    "method": "joint",
+    "active": 6,
+    "ise": 0.00359518700419037,
+    "objective": 0.007892356372192287,
+    "max_kkt": 5.724587470723463e-17
+  },
+  {
+    "config": 8,
+    "seed": 4,
+    "method": "palm",
+    "active": 6,
+    "ise": 0.006137282299107483,
+    "objective": 0.007960141703935409,
+    "max_kkt": 5.724587470723463e-17
+  },
+  {
+    "config": 8,
+    "seed": 4,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.002561483244092999,
+    "objective": 0.007865493706588239,
+    "max_kkt": 2.5153490401663703e-16
+  },
+  {
+    "config": 9,
+    "seed": 0,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0010764539475014434,
+    "objective": 0.007748924281727894,
+    "max_kkt": 3.642919299551295e-17
+  },
+  {
+    "config": 9,
+    "seed": 0,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0010751318192772086,
+    "objective": 0.007748979560487871,
+    "max_kkt": 3.642919299551295e-17
+  },
+  {
+    "config": 9,
+    "seed": 0,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0010761380537180898,
+    "objective": 0.0077489197812984105,
+    "max_kkt": 2.3592239273284576e-16
+  },
+  {
+    "config": 9,
+    "seed": 1,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0009753075001990297,
+    "objective": 0.007835866572668,
+    "max_kkt": 9.367506770274758e-17
+  },
+  {
+    "config": 9,
+    "seed": 1,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.001002713830427382,
+    "objective": 0.007836877076209696,
+    "max_kkt": 9.367506770274758e-17
+  },
+  {
+    "config": 9,
+    "seed": 1,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0009741734112382883,
+    "objective": 0.007835581152561942,
+    "max_kkt": 3.4867941867133823e-16
+  },
+  {
+    "config": 9,
+    "seed": 2,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0019419195872236727,
+    "objective": 0.00775794762044049,
+    "max_kkt": 6.591949208711867e-17
+  },
+  {
+    "config": 9,
+    "seed": 2,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.0019416865821564322,
+    "objective": 0.007757955334953581,
+    "max_kkt": 6.591949208711867e-17
+  },
+  {
+    "config": 9,
+    "seed": 2,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0019422522089835859,
+    "objective": 0.007757946437797417,
+    "max_kkt": 2.393918396847994e-16
+  },
+  {
+    "config": 9,
+    "seed": 3,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0024308476523962064,
+    "objective": 0.007778140206155502,
+    "max_kkt": 1.1449174941446927e-16
+  },
+  {
+    "config": 9,
+    "seed": 3,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.002462615512281552,
+    "objective": 0.007778245393588182,
+    "max_kkt": 1.1449174941446927e-16
+  },
+  {
+    "config": 9,
+    "seed": 3,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.002401194604059853,
+    "objective": 0.007778101383017459,
+    "max_kkt": 2.7755575615628914e-16
+  },
+  {
+    "config": 9,
+    "seed": 4,
+    "method": "joint",
+    "active": 5,
+    "ise": 0.0014462616935295713,
+    "objective": 0.007838475673832201,
+    "max_kkt": 1.5959455978986625e-16
+  },
+  {
+    "config": 9,
+    "seed": 4,
+    "method": "palm",
+    "active": 5,
+    "ise": 0.001471145280333097,
+    "objective": 0.007838633039690734,
+    "max_kkt": 1.5959455978986625e-16
+  },
+  {
+    "config": 9,
+    "seed": 4,
+    "method": "varpro",
+    "active": 5,
+    "ise": 0.0014381093929265454,
+    "objective": 0.007838435913906682,
+    "max_kkt": 2.7755575615628914e-16
+  }
+]

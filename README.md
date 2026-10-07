@@ -18,7 +18,7 @@ is differentiated implicitly along its regular branch.
 |---|---|
 | [`cifar/`](cifar/) | Group-sparse readout of a ResNet-18 on CIFAR-10 |
 | [`mri/`](mri/) | MRI reconstruction with learnable features (fastMRI knee) |
-| `sketching/` | Sketched spike deconvolution *(to be added)* |
+| [`sketching/`](sketching/) | Sparse mixture learning from a sketch |
 
 Each folder is self-contained and has its own README with the exact commands
 to reproduce the corresponding results of the paper.

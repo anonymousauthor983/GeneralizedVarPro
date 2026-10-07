@@ -1,0 +1,37 @@
+{
+  "selected_config": 7,
+  "candidate_count": 10,
+  "exploratory_seeds": [
+    0,
+    1,
+    2,
+    3,
+    4
+  ],
+  "evaluation_seeds": [
+    201,
+    202,
+    203,
+    204,
+    205,
+    206,
+    207,
+    208,
+    209,
+    210,
+    211,
+    212,
+    213,
+    214,
+    215,
+    216,
+    217,
+    218,
+    219,
+    220
+  ],
+  "selected_before_evaluation_utc": "2026-10-07T08:41:40.442179+00:00",
+  "criterion": "Require five active masses in all five exploratory VarPro runs, then prefer larger gap to Joint PG and PALM; candidate 7 uniquely has zero five-atom outcomes for both baselines among candidates meeting this requirement.",
+  "config_sha256": "f98065130d9e883303c87ab7fda6db1b8766c854b35f0de10ca1b4e1af34ff82",
+  "evaluation_policy": "Run all 20 reserved seeds once; report all; no retuning using evaluation outcomes."
+}
