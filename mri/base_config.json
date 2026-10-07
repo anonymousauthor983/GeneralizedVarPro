@@ -1,0 +1,39 @@
+{
+  "data": "data",
+  "seed": 0,
+  "R": 4,
+  "features": 16,
+  "train_images": 1920,
+  "val_images": 480,
+  "epochs": 8,
+  "batch": 4,
+  "lr": 0.001,
+  "mu": 1.0,
+  "methods": [
+    "projected",
+    "joint_prox",
+    "alternating"
+  ],
+  "lambda_fractions": [
+    0.001,
+    0.01,
+    0.1
+  ],
+  "code_kkt_tolerance": 1e-08,
+  "max_code_sweeps": 20000,
+  "tv_lambdas": [
+    0.01,
+    0.04,
+    0.16
+  ],
+  "active_threshold_relative": 1e-06,
+  "accelerations": [
+    4,
+    8
+  ],
+  "powers": [
+    1.0,
+    2.0,
+    0.5
+  ]
+}

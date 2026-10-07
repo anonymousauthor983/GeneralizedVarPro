@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+runs/
+figures/
+solver_audit/
+*.pt
+*.h5
+*.npy
+*.log
+CHECK_MARGIN.json
+PREFLIGHT.json
+SMOKE_TEST.json

@@ -6,16 +6,18 @@ Models With Sparsity* (anonymous submission).
 Generalized Variable Projection (GVP) trains separable models
 `y ≈ Φ_θ w` whose linear weights `w` should be sparse. At each iteration, the
 weights are replaced by the solution of their regularized, possibly nonsmooth,
-convex inner problem, and only the nonlinear parameters `θ` are updated, with
-any first-order optimizer and without differentiating through the inner
-solver.
+convex inner problem, and only the nonlinear parameters `θ` are updated with
+any first-order optimizer. When the training loss is the inner objective, the
+update uses the envelope gradient and never differentiates through the solver
+(CIFAR-10); when it differs, as in supervised MRI reconstruction, the solution
+is differentiated implicitly along its regular branch.
 
 ## Repository structure
 
 | Folder | Experiment |
 |---|---|
 | [`cifar/`](cifar/) | Group-sparse readout of a ResNet-18 on CIFAR-10 |
-| `mri/` | MRI reconstruction with learnable features *(to be added)* |
+| [`mri/`](mri/) | MRI reconstruction with learnable features (fastMRI knee) |
 | `sketching/` | Sketched spike deconvolution *(to be added)* |
 
 Each folder is self-contained and has its own README with the exact commands
